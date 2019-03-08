@@ -1,0 +1,783 @@
+compliance02prd|192-integration|1.1.0-rc01
+compliance01prd|192-integration|1.1.0-rc01
+securityweb02prd|account-manager|4.41.0-RC04
+securityweb01prd|account-manager|4.41.0-RC04
+affiliates01prd|affiliates|4.1.1
+affiliates02prd|affiliates|4.1.1
+agp19prd|agp|5.71.1
+agp17prd|agp|5.71.1
+toolbar02prd|agp|5.71.1
+toolbar04prd|agp|5.71.1
+agp16prd|agp|5.71.1
+neoagp06prd.mp.vcint.com|agp|Can't find application version
+neoagp05prd.mp.vcint.com|agp|Can't find application version
+agp18prd|agp|5.71.1
+neoagp02prd|agp|6.4.2
+toolbar01prd|agp|5.71.1
+neoagp04prd|agp|6.4.2
+neoagp09prd|agp|6.4.2
+neoagp01prd|agp|6.4.2
+neoagp03prd|agp|6.4.2
+agp15prd|agp|5.71.1
+agp13prd|agp|5.71.1
+toolbar03prd|agp|5.71.1
+neoagp07prd.mp.vcint.com|agp|Can't find application version
+neoagp08prd|agp|6.4.2
+agp20prd|agp|5.71.1
+agp14prd|agp|5.71.1
+atsbo01prd|ats|/ats 1.0.0-tagging-rc05
+atsbo02prd|ats|/ats 1.0.0-tagging-rc05
+betdim03prd|bet-dimensions|2.7.0-rc01
+betdim04prd|bet-dimensions|2.7.0-rc01
+bettingapi02prd|bettingapi|5.30.0-rc03
+jenkins-release-test-281 (39559)
+bettingapi01prd|bettingapi|5.30.0-rc03
+jenkins-release-test-281 (39559)
+wallets04prd|bonus-wallet|1.1.0-rc01
+wallets02prd|bonus-wallet|1.1.0-rc01
+wallets05prd|bonus-wallet|1.1.0-rc01
+wallets03prd|bonus-wallet|1.1.0-rc01
+wallets01prd|bonus-wallet|1.1.0-rc01
+bonusapi03prd.mp.vcint.com|bonusapi|Can't find application version
+bonusapi02prd|bonusapi|Bonus API: 4.9.1-rc01 (bonus-persistence:1.7.0-rc01)
+bonusapi06prd|bonusapi|Bonus API: 4.9.1-rc01 (bonus-persistence:1.7.0-rc01)
+bonusapi01prd|bonusapi|Bonus API: 4.9.1-rc01 (bonus-persistence:1.7.0-rc01)
+bonusapi04prd.mp.vcint.com|bonusapi|Can't find application version
+bonusapi05prd|bonusapi|Bonus API: 4.9.1-rc01 (bonus-persistence:1.7.0-rc01)
+bonusweb04prd|bonusweb|0.0.15
+
+bonusweb01prd|bonusweb|0.0.15
+
+bonusweb03prd|bonusweb|0.0.15
+
+bonusweb02prd|bonusweb|0.0.15
+
+cashabetout02prd|cashabetout|"1.0.0-RC17"
+cashabetout01prd|cashabetout|"1.0.0-RC17"
+payments04prd|cashier-api|1.20.0-RC06
+payments01prd|cashier-api|1.20.0-RC06
+payments03prd|cashier-api|1.20.0-RC06
+payments02prd|cashier-api|1.20.0-RC06
+cinbox02prd|cinbox|1.3.2-RC01
+cinbox01prd|cinbox|1.3.2-RC01
+coaction01prd|coaction|{"version":"1.6.0-RC02"}
+coaction03prd.mp.vcint.com|coaction|{"version":"1.6.0-RC02"}
+coaction04prd.mp.vcint.com|coaction|{"version":"1.6.0-RC02"}
+coaction02prd|coaction|{"version":"1.6.0-RC02"}
+cashoutplay10prd|coplayer|1.0.0-RC08
+cashoutplay01prd|coplayer|1.0.0-RC08
+cashoutplay07prd.mp.vcint.com|coplayer|Can't find application version
+cashoutplay04prd|coplayer|1.0.0-RC08
+cashoutplay06prd.mp.vcint.com|coplayer|Can't find application version
+cashoutplay02prd|coplayer|1.0.0-RC08
+cashoutplay03prd|coplayer|1.0.0-RC08
+cashoutplay05prd.mp.vcint.com|coplayer|Can't find application version
+cashoutplay09prd|coplayer|1.0.0-RC08
+cashoutplay11prd|coplayer|1.0.0-RC08
+cashoutplay08prd|coplayer|1.0.0-RC08
+digitalcore03prd|coreservice|v0.3.0
+
+digitalcore02prd|coreservice|v0.3.0
+
+digitalcore04prd|coreservice|v0.3.0
+
+digitalcore01prd|coreservice|v0.3.0
+
+coh-cpbt01prd|cpbt-engine|CPBT engine 4.9.0-rc02 (model: ${event.monitor.cpbt.model.version} persistence: 4.8.0-rc01)
+coh-cpbt02prd|cpbt-engine|CPBT engine 4.9.0-rc02 (model: ${event.monitor.cpbt.model.version} persistence: 4.8.0-rc01)
+coh-cpbt03prd|cpbt-engine|CPBT engine 4.9.0-rc02 (model: ${event.monitor.cpbt.model.version} persistence: 4.8.0-rc01)
+coh-cpbt04prd|cpbt-engine|CPBT engine 4.9.0-rc02 (model: ${event.monitor.cpbt.model.version} persistence: 4.8.0-rc01)
+cpbtui01prd|cpbt-ui|CPBT ui 4.9.0-rc01 (persistence: 4.9.0-rc01 adauth: 1.0.2-rc01)
+
+cpbtui02prd|cpbt-ui|CPBT ui 4.9.0-rc01 (persistence: 4.9.0-rc01 adauth: 1.0.2-rc01)
+
+sportsbookfeeds01prd|darts|Can't find application version
+sportsbookfeeds02prd|darts|Can't find application version
+dimapi01prd|dimapi|1.2.0-rc01
+dimapi02prd|dimapi|1.2.0-rc01
+wallets04prd|entwine-wallet|1.1.4-rc01
+wallets02prd|entwine-wallet|1.1.4-rc01
+wallets05prd|entwine-wallet|1.1.4-rc01
+wallets03prd|entwine-wallet|1.1.4-rc01
+wallets01prd|entwine-wallet|1.1.4-rc01
+eventmonitor02prd|event-monitor|Event monitor 4.9.0-rc02 (model: , revision: 71466)
+eventmonitor03prd|event-monitor|Event monitor 4.9.0-rc02 (model: , revision: 71466)
+exauth02prd|exauth|1.7.2-rc05
+exauth01prd|exauth|1.7.2-rc05
+ezcash01prd|ezcash|1.1.9
+ezcash02prd|ezcash|1.1.9
+compliance02prd|fraud-core|1.0.0-rc04
+compliance01prd|fraud-core|1.0.0-rc04
+gamingapi03prd|gamingapi|3.17.3-rc02
+gamingapi06prd.mp.vcint.com|gamingapi|Can't find application version
+gamingapi02prd|gamingapi|3.17.3-rc02
+gamingapi01prd|gamingapi|3.17.3-rc02
+gamingapi04prd|gamingapi|3.17.3-rc02
+gamingapi05prd.mp.vcint.com|gamingapi|Can't find application version
+iaction01prd|iaction|{"version":"2.5.0-RC01"}
+iaction05prd.ew1.vcint.com|iaction|Can't find application version
+iaction06prd.ew1.vcint.com|iaction|<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta charset="utf-8"/>
+    <meta name="description" content="User login page"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+
+    <title>AGP Websuite</title>
+
+    <link rel="stylesheet" href="/instant-action-webservice/assets/bootstrap-css-only/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/font-awesome/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace-fonts.css"/>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace.min.css"/>
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace-part2.min.css"/>
+    <![endif]-->
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace-rtl.min.css"/>
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace-ie.min.css"/>
+    <![endif]-->
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace.onpage-help.css"/>
+
+    <script src='/instant-action-webservice/assets/jquery/dist/jquery.min.js'></script>
+    <script src="/instant-action-webservice/assets/js/bootstrap.min.js"></script>
+</head>
+
+<body class="login-layout">
+<script type="text/javascript">
+    $(function ($) {
+        /**
+         * Peeks in the URL parameters.
+         *
+         * @param sParam(String) the param to be searched.
+         * @return {String}
+         */
+        function isError() {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++) {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] === "error") {
+                    return true;
+                }
+            }
+            return null;
+        }
+
+        $(document).on('click', '.toolbar a[data-target]', function (e) {
+            e.preventDefault();
+            var target = $(this).data('target');
+            $('.widget-box.visible').removeClass('visible');//hide others
+            $(target).addClass('visible');//show target
+        });
+
+        if (isError()) {
+            $('#loginFailedAlert').show();
+        }
+        else {
+            $('#loginFailedAlert').hide();
+        }
+    });
+</script>
+
+<div class="main-container">
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-1">
+            <div class="login-container">
+                <div class="center">
+                    <h1>
+                        <span class="blue">AGP Websuite</span>
+                    </h1>
+                    <h4 class="blue" id="id-company-text">&copy; BETVICTOR</h4>
+                </div>
+
+                <div class="space-6"></div>
+
+                <div class="position-relative">
+                    <div id="login-box" class="login-box visible widget-box no-border">
+                        <div class="widget-body">
+                            <div class="widget-main">
+                                <h4 class="header blue lighter">
+                                    Login with your operator details
+                                </h4>
+
+                                <div class="space-6"></div>
+
+                                <div id="loginFailedAlert" class="alert alert-danger tableLockWarn" role="alert">
+                                    <strong>Login Failed!</strong> - Invalid Username or Password.
+                                </div>
+
+                                <form id="loginForm" role="form" name='loginForm'
+                                      action="/instant-action-webservice/sbk_security_login"
+                                      method="post">
+                                    <fieldset>
+                                        <label class="block clearfix">
+														<span class="block input-icon input-icon-right">
+															<input type="text" class="form-control"
+                                                                   placeholder="Username" name="username" required
+                                                                   oninvalid="this.setCustomValidity('Please enter a valid Username')"
+                                                                   oninput="this.setCustomValidity('')"/>
+															<i class="ace-icon fa fa-user"></i>
+														</span>
+                                        </label>
+
+                                        <label class="block clearfix">
+														<span class="block input-icon input-icon-right">
+															<input type="password" class="form-control"
+                                                                   placeholder="Password" name="password" required
+                                                                   oninvalid="this.setCustomValidity('Please enter a valid Password')"
+                                                                   oninput="this.setCustomValidity('')"/>
+															<i class="ace-icon fa fa-lock"></i>
+														</span>
+                                        </label>
+
+                                        <label class="block clearfix">
+														<span class="block input-icon input-icon-right">
+															<input type="text" class="form-control"
+                                                                   placeholder="Extension (Optional)" name="teleExt"/>
+															<i class="ace-icon fa fa-phone"></i>
+														</span>
+                                        </label>
+
+                                        <div class="space"></div>
+
+                                        <div class="clearfix">
+                                            <button type="submit"
+                                                    class="width-35 btn btn-sm btn-primary">
+                                                <i class="ace-icon fa fa-key"></i>
+                                                <span class="bigger-110">Login</span>
+                                            </button>
+                                        </div>
+
+                                        <div class="space-4"></div>
+                                    </fieldset>
+                                </form>
+                            </div>
+                            <!-- /.widget-main -->
+                        </div>
+                        <!-- /.widget-body -->
+                    </div>
+                    <!-- /.login-box -->
+                </div>
+            </div>
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+</div>
+<!-- /.main-content -->
+</div>
+<!-- /.main-container -->
+</body>
+</html>
+
+iaction02prd|iaction|{"version":"2.5.0-RC01"}
+iaction03prd|iaction|{"version":"2.5.0-RC01"}
+iaction04prd.ew1.vcint.com|iaction|<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta charset="utf-8"/>
+    <meta name="description" content="User login page"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+
+    <title>AGP Websuite</title>
+
+    <link rel="stylesheet" href="/instant-action-webservice/assets/bootstrap-css-only/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/font-awesome/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace-fonts.css"/>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace.min.css"/>
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace-part2.min.css"/>
+    <![endif]-->
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace-rtl.min.css"/>
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace-ie.min.css"/>
+    <![endif]-->
+    <link rel="stylesheet" href="/instant-action-webservice/assets/css/ace.onpage-help.css"/>
+
+    <script src='/instant-action-webservice/assets/jquery/dist/jquery.min.js'></script>
+    <script src="/instant-action-webservice/assets/js/bootstrap.min.js"></script>
+</head>
+
+<body class="login-layout">
+<script type="text/javascript">
+    $(function ($) {
+        /**
+         * Peeks in the URL parameters.
+         *
+         * @param sParam(String) the param to be searched.
+         * @return {String}
+         */
+        function isError() {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++) {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] === "error") {
+                    return true;
+                }
+            }
+            return null;
+        }
+
+        $(document).on('click', '.toolbar a[data-target]', function (e) {
+            e.preventDefault();
+            var target = $(this).data('target');
+            $('.widget-box.visible').removeClass('visible');//hide others
+            $(target).addClass('visible');//show target
+        });
+
+        if (isError()) {
+            $('#loginFailedAlert').show();
+        }
+        else {
+            $('#loginFailedAlert').hide();
+        }
+    });
+</script>
+
+<div class="main-container">
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-1">
+            <div class="login-container">
+                <div class="center">
+                    <h1>
+                        <span class="blue">AGP Websuite</span>
+                    </h1>
+                    <h4 class="blue" id="id-company-text">&copy; BETVICTOR</h4>
+                </div>
+
+                <div class="space-6"></div>
+
+                <div class="position-relative">
+                    <div id="login-box" class="login-box visible widget-box no-border">
+                        <div class="widget-body">
+                            <div class="widget-main">
+                                <h4 class="header blue lighter">
+                                    Login with your operator details
+                                </h4>
+
+                                <div class="space-6"></div>
+
+                                <div id="loginFailedAlert" class="alert alert-danger tableLockWarn" role="alert">
+                                    <strong>Login Failed!</strong> - Invalid Username or Password.
+                                </div>
+
+                                <form id="loginForm" role="form" name='loginForm'
+                                      action="/instant-action-webservice/sbk_security_login"
+                                      method="post">
+                                    <fieldset>
+                                        <label class="block clearfix">
+														<span class="block input-icon input-icon-right">
+															<input type="text" class="form-control"
+                                                                   placeholder="Username" name="username" required
+                                                                   oninvalid="this.setCustomValidity('Please enter a valid Username')"
+                                                                   oninput="this.setCustomValidity('')"/>
+															<i class="ace-icon fa fa-user"></i>
+														</span>
+                                        </label>
+
+                                        <label class="block clearfix">
+														<span class="block input-icon input-icon-right">
+															<input type="password" class="form-control"
+                                                                   placeholder="Password" name="password" required
+                                                                   oninvalid="this.setCustomValidity('Please enter a valid Password')"
+                                                                   oninput="this.setCustomValidity('')"/>
+															<i class="ace-icon fa fa-lock"></i>
+														</span>
+                                        </label>
+
+                                        <label class="block clearfix">
+														<span class="block input-icon input-icon-right">
+															<input type="text" class="form-control"
+                                                                   placeholder="Extension (Optional)" name="teleExt"/>
+															<i class="ace-icon fa fa-phone"></i>
+														</span>
+                                        </label>
+
+                                        <div class="space"></div>
+
+                                        <div class="clearfix">
+                                            <button type="submit"
+                                                    class="width-35 btn btn-sm btn-primary">
+                                                <i class="ace-icon fa fa-key"></i>
+                                                <span class="bigger-110">Login</span>
+                                            </button>
+                                        </div>
+
+                                        <div class="space-4"></div>
+                                    </fieldset>
+                                </form>
+                            </div>
+                            <!-- /.widget-main -->
+                        </div>
+                        <!-- /.widget-body -->
+                    </div>
+                    <!-- /.login-box -->
+                </div>
+            </div>
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+</div>
+<!-- /.main-content -->
+</div>
+<!-- /.main-container -->
+</body>
+</html>
+
+inspired01prd|inspired|Can't find application version
+inspired02prd|inspired|Can't find application version
+intauth02prd|intauth|1.7.2-rc05
+intauth01prd|intauth|1.7.2-rc05
+mat03prd|manual-award-tool|MAT 4.9.0-rc01 (persistence: 4.9.0-rc01 adauth: 1.0.2-rc01)
+mat01prd|manual-award-tool|Can't find application version
+mat04prd|manual-award-tool|MAT 4.9.0-rc01 (persistence: 4.9.0-rc01 adauth: 1.0.2-rc01)
+mat02prd|manual-award-tool|Can't find application version
+mao05prd.mp.vcint.com|marketandoutcomes|Can't find application version
+mao09prd|marketandoutcomes|1.1.0-RC03
+mao11prd|marketandoutcomes|1.1.0-RC03
+mao08prd|marketandoutcomes|1.1.0-RC03
+mao07prd.mp.vcint.com|marketandoutcomes|Can't find application version
+mao04prd|marketandoutcomes|1.1.0-RC03
+mao03prd|marketandoutcomes|1.1.0-RC03
+mao06prd.mp.vcint.com|marketandoutcomes|Can't find application version
+mao02prd|marketandoutcomes|1.1.0-RC03
+mao10prd|marketandoutcomes|1.1.0-RC03
+mao01prd|marketandoutcomes|1.1.0-RC03
+cohmd06prd.mp.vcint.com|mdc-manager|Can't find application version
+coherence04prd|mdc-manager|Can't find application version
+cohmd03prd.mp.vcint.com|mdc-manager|Can't find application version
+coherence06prd|mdc-manager|Can't find application version
+cohmd04prd.mp.vcint.com|mdc-manager|Can't find application version
+coherence05prd|mdc-manager|Can't find application version
+cohmd02prd.mp.vcint.com|mdc-manager|Can't find application version
+coherence01prd|mdc-manager|Can't find application version
+cohmd05prd.mp.vcint.com|mdc-manager|Can't find application version
+coh-smdc02prd|mdc-manager|Can't find application version
+coh-smdc01prd|mdc-manager|Can't find application version
+coherence02prd|mdc-manager|Can't find application version
+coh-smdc03prd|mdc-manager|Can't find application version
+cohmd01prd.mp.vcint.com|mdc-manager|Can't find application version
+coh-smdc07prd|mdc|Can't find application version
+coh-smdc08prd|mdc|Can't find application version
+coh-smdc01prd|mdc|Can't find application version
+coherence04prd|mdc|Can't find application version
+cohmd03prd.mp.vcint.com|mdc|Can't find application version
+coherence06prd|mdc|Can't find application version
+cohmd04prd.mp.vcint.com|mdc|Can't find application version
+coherence05prd|mdc|Can't find application version
+coh-smdc05prd|mdc|Can't find application version
+coh-smdc04prd|mdc|Can't find application version
+cohmd02prd.mp.vcint.com|mdc|Can't find application version
+coherence01prd|mdc|Can't find application version
+cohmd05prd.mp.vcint.com|mdc|Can't find application version
+cohmd06prd.mp.vcint.com|mdc|Can't find application version
+coh-smdc02prd|mdc|Can't find application version
+coh-smdc06prd|mdc|Can't find application version
+coherence02prd|mdc|Can't find application version
+coh-smdc03prd|mdc|Can't find application version
+cohmd01prd.mp.vcint.com|mdc|Can't find application version
+mdun04prd|mdun|Can't find application version
+mdun02prd|mdun|Can't find application version
+mdun03prd|mdun|Can't find application version
+mdun01prd|mdun|Can't find application version
+msgbusbo01prd|message-bus|Can't find application version
+msgbusfo02prd|message-bus|Can't find application version
+msgbusfo01prd|message-bus|Can't find application version
+msgbusbo03prd|message-bus|Can't find application version
+msgbusfo03prd|message-bus|Can't find application version
+msgbusbo02prd|message-bus|Can't find application version
+wallets04prd|mgs-int|1.1.0-rc01
+wallets02prd|mgs-int|1.1.0-rc01
+wallets05prd|mgs-int|1.1.0-rc01
+wallets03prd|mgs-int|1.1.0-rc01
+wallets01prd|mgs-int|1.1.0-rc01
+mobilecms02prd|mobilecms|v5.60.0
+
+mobilecms01prd|mobilecms|v5.60.0
+
+asiamobi08prd|mobilefrontend|Can't find application version
+asiamobi07prd|mobilefrontend|v5.60.1
+
+asiamobi03prd|mobilefrontend|v5.60.1
+
+mobileweb06prd|mobilefrontend|Can't find application version
+asiamobi05prd|mobilefrontend|v5.60.1
+
+mobileweb03prd|mobilefrontend|v5.60.1
+
+asiamobi06prd|mobilefrontend|Can't find application version
+mobileweb10prd|mobilefrontend|Can't find application version
+mobileweb08prd|mobilefrontend|Can't find application version
+mobileweb07prd|mobilefrontend|v5.60.1
+
+asiamobi04prd|mobilefrontend|Can't find application version
+mobileweb05prd|mobilefrontend|v5.60.1
+
+mobileweb04prd|mobilefrontend|Can't find application version
+mobileweb09prd|mobilefrontend|v5.60.1
+
+mongodb02prd|mongodb|Can't find application version
+mongodb03prd|mongodb|Can't find application version
+mongodb01prd|mongodb|Can't find application version
+msm01prd|msm|Can't find application version
+msm02prd|msm|Can't find application version
+nodejs19prd.mp.vcint.com|nodejs|Can't find application version
+nodejs11prd|nodejs|v5.5.1
+nodejs06prd|nodejs|v5.5.1
+nodejs09prd|nodejs|v5.5.1
+nodejs24prd.mp.vcint.com|nodejs|Can't find application version
+nodejsfeed01prd|nodejs|Can't find application version
+nodejs22prd.mp.vcint.com|nodejs|Can't find application version
+nodejs07prd|nodejs|v5.5.1
+nodejs14prd|nodejs|Can't find application version
+nodejs02prd|nodejs|v5.5.1
+nodejs21prd.mp.vcint.com|nodejs|Can't find application version
+nodejs23prd.mp.vcint.com|nodejs|Can't find application version
+nodejs08prd|nodejs|v5.5.1
+nodejs01prd|nodejs|v5.5.1
+nodejs20prd.mp.vcint.com|nodejs|Can't find application version
+nodejs12prd|nodejs|v5.5.1
+nodejs13prd|nodejs|v5.5.1
+nodejs05prd|nodejs|v5.5.1
+nodejs03prd|nodejs|v5.5.1
+nodejs04prd|nodejs|v5.5.1
+nodejs10prd|nodejs|v5.5.1
+nodejsfeed02prd|nodejs|Can't find application version
+nodejsws04prd|nodejsws|Can't find application version
+nodejsws10prd|nodejsws|x.y.z
+nodejsws02prd|nodejsws|Can't find application version
+nodejsws08prd|nodejsws|x.y.z
+nodejsws06prd|nodejsws|Can't find application version
+nodejsws07prd|nodejsws|x.y.z
+nodejsws19prd.mp.vcint.com|nodejsws|Can't find application version
+nodejsws01prd|nodejsws|Can't find application version
+nodejsws11prd|nodejsws|x.y.z
+nodejsws17prd.mp.vcint.com|nodejsws|Can't find application version
+nodejsws05prd|nodejsws|Can't find application version
+nodejsws18prd.mp.vcint.com|nodejsws|Can't find application version
+nodejsws03prd|nodejsws|Can't find application version
+nodejsws09prd|nodejsws|x.y.z
+nodejsws12prd|nodejsws|x.y.z
+omdsmain19prd|omds|2.3.0-RC02
+omdsmain22prd.mp.vcint.com|omds|2.3.0-RC02
+omdsmain16prd|omds|2.3.0-RC02
+omdsxml02prd|omds|2.1.0
+omdsxml03prd|omds|2.1.0
+omdsmain24prd.mp.vcint.com|omds|2.3.0-RC02
+omdsmain18prd|omds|2.3.0-RC02
+omdsmain23prd.mp.vcint.com|omds|2.3.0-RC02
+omdsxml04prd|omds|2.1.0
+omdsmain21prd.mp.vcint.com|omds|2.3.0-RC02
+omdsmain13prd|omds|2.3.0-RC02
+omdsxml08prd|omds|2.1.0
+omdsxml06prd|omds|2.1.0
+omdsmain15prd|omds|2.3.0-RC02
+omdsxml05prd|omds|2.1.0
+omdsmain17prd|omds|2.3.0-RC02
+omdsmain14prd|omds|2.3.0-RC02
+omdsmain20prd|omds|2.3.0-RC02
+wallets04prd|oneworks-int|1.1.0-rc01
+wallets02prd|oneworks-int|1.1.0-rc01
+wallets05prd|oneworks-int|1.1.0-rc01
+wallets03prd|oneworks-int|1.1.0-rc01
+wallets01prd|oneworks-int|1.1.0-rc01
+sasow01prd|oneworks-sas|OneWorks SAS Report Tool 1.6.4-rc01 (oneworks-api.version=1.2.15)
+owvapi01prd|oneworks|1.4.1-rc01
+owvapi02prd|oneworks|1.4.1-rc01
+pac2pay02prd|pac2pay|1.0.8
+pac2pay01prd|pac2pay|1.0.8
+pafeed01prd|pafeed|Can't find application version
+payintapp02prd|paymentinside|1.2.0
+payintapp01prd|paymentinside|1.2.0
+paymentsbo03prd|payments-bo-core|1.11.0-rc02
+paymentsbo01prd|payments-bo-core|1.11.0-rc02
+paymentsbo02prd|payments-bo-core|1.11.0-rc02
+payments04prd|payments-core|2.20.3-RC03
+payments01prd|payments-core|2.20.3-RC03
+payments03prd|payments-core|2.20.3-RC03
+payments02prd|payments-core|2.20.3-RC03
+payments04prd|paysol|4.13.0-rc04
+payments01prd|paysol|4.13.0-rc04
+payments03prd|paysol|4.13.0-rc04
+payments02prd|paysol|4.13.0-rc04
+securityweb02prd|poker-account-tool|2.6.0-rc03
+securityweb01prd|poker-account-tool|2.6.0-rc03
+settlepope02prd|pope|Can't find application version
+settlepope01prd|pope|Can't find application version
+pgate03prd|pushgateway|2.0.0-RC07
+pgate02prd|pushgateway|2.0.0-RC07
+pgate01prd|pushgateway|2.0.0-RC07
+pgate10prd|pushgateway|2.0.0-RC07
+pgate09prd|pushgateway|2.0.0-RC07
+pgate06prd|pushgateway|2.0.0-RC07
+pgate05prd|pushgateway|2.0.0-RC07
+pgate08prd|pushgateway|2.0.0-RC07
+pgate07prd|pushgateway|2.0.0-RC07
+pgate04prd|pushgateway|2.0.0-RC07
+pxfcb01prd|pxfcb|1.1.1
+pxfcb04prd|pxfcb|1.1.1
+pxfcb02prd|pxfcb|1.1.1
+pxfcb03prd|pxfcb|1.1.1
+pxffe01prd|pxff|1.0.6
+pxffe04prd|pxff|1.0.6
+pxffe02prd|pxff|1.0.6
+pxffe03prd|pxff|1.0.6
+asiaredis03prd|redis|Can't find application version
+asiaredis04prd|redis|Can't find application version
+regdecouple01prd|regdecouple|1.1.0-rc02
+regdecouple02prd|regdecouple|1.1.0-rc02
+compliance02prd|risktools|1.0.2-RC01
+compliance01prd|risktools|1.0.2-RC01
+safe01prd|safeserver|Can't find application version
+scoreb10prd|scoreboard|Can't find application version
+scoreb05prd.mp.vcint.com|scoreboard|Can't find application version
+scoreb01prd|scoreboard|2.0.0-RC06
+scoreb07prd.mp.vcint.com|scoreboard|Can't find application version
+scoreb08prd|scoreboard|2.0.0-RC06
+scoreb06prd.mp.vcint.com|scoreboard|Can't find application version
+scoreb09prd|scoreboard|2.0.0-RC06
+scoreb03prd|scoreboard|2.0.0-RC06
+scoreb02prd|scoreboard|2.0.0-RC06
+scoreb04prd|scoreboard|2.0.0-RC06
+scoreb11prd|scoreboard|2.0.0-RC06
+sdpayapp02prd|sdpay|1.2.1
+sdpayapp01prd|sdpay|1.2.1
+ltsapp03prd|searchapi|1.4.4
+ltsapp04prd|searchapi|1.4.4
+ltsapp01prd|searchapi|1.4.5
+ltsapp02prd|searchapi|1.4.5
+settlementx04prd|settlement|Can't find application version
+settlementx01prd|settlement|Can't find application version
+settlementx07prd|settlement|Can't find application version
+settlementx05prd|settlement|Can't find application version
+settlementx03prd|settlement|Can't find application version
+settlementx02prd|settlement|Can't find application version
+settlementx06prd|settlement|Can't find application version
+silkwallet01prd|silk-wallet|"1.0.3-rc04"
+silkwallet02prd|silk-wallet|"1.0.3-rc04"
+spincast01prd|spincast|Can't find application version
+spincast02prd|spincast|Can't find application version
+sportsbookapi01prd|sportsbookapi|<title>Botsphere-Rightprice application. Version: 1.3.0-RC02</title>
+
+sportsbookapi03prd|sportsbookapi|<title>Botsphere-Rightprice application. Version: 1.3.0-RC02</title>
+
+sportsbookapi02prd|sportsbookapi|<title>Botsphere-Rightprice application. Version: 1.3.0-RC02</title>
+
+sportsbookapi04prd|sportsbookapi|<title>Botsphere-Rightprice application. Version: 1.3.0-RC02</title>
+
+sportstream01prd|sportstream|1.0.3-rc08
+sportstream03prd.mp.vcint.com|sportstream|1.0.3-rc08
+sportstream02prd|sportstream|1.0.3-rc08
+sportstream04prd.mp.vcint.com|sportstream|1.0.3-rc08
+statements02prd|statements|1.0.0-rc04
+statements01prd|statements|1.0.0-rc04
+statements03prd|statements|1.0.0-rc04
+ltsapp03prd|stserver|1.5.0-rc07
+ltsapp04prd|stserver|1.5.0-rc07
+ltsapp01prd|stserver|1.5.1
+ltsapp02prd|stserver|1.5.1
+stt01prd|stt|1.5.1
+stt02prd|stt|1.5.1
+securityweb02prd|thirdpartymanager|3.33.0-rc01
+securityweb01prd|thirdpartymanager|3.33.0-rc01
+casinotickers02prd|tickers|1.3.2-rc01
+casinotickers01prd|tickers|1.3.2-rc01
+casinotickers03prd|tickers|1.3.2-rc01
+sportsbookfeeds01prd|timeform|1.3.1-RC01
+sportsbookfeeds02prd|timeform|1.3.1-RC01
+topnb05prd.mp.vcint.com|topnbets|1.0.17-RC04
+topnb03prd|topnbets|1.0.17-RC04
+topnb06prd.mp.vcint.com|topnbets|Can't find application version
+topnb02prd|topnbets|1.0.17-RC04
+topnb04prd.mp.vcint.com|topnbets|Can't find application version
+topnb01prd|topnbets|1.0.17-RC04
+securityweb02prd|transaction-manager|3.33.0-rc01
+securityweb01prd|transaction-manager|3.33.0-rc01
+tta01prd|tta|Can't find application version
+txfeed01prd|txfeed|1.0.7-rc02
+securityweb02prd|vccommon|Can't find application version
+securityweb01prd|vccommon|Can't find application version
+securityweb02prd|vcportal|3.29.0-rc01
+securityweb01prd|vcportal|3.29.0-rc01
+paymentsbo03prd|wallets-bo-core|1.4.0-rc02
+paymentsbo01prd|wallets-bo-core|1.4.0-rc02
+paymentsbo02prd|wallets-bo-core|1.4.0-rc02
+wallets04prd|wallets-core|2.4.5-RC06
+wallets02prd|wallets-core|2.4.5-RC06
+wallets05prd|wallets-core|2.4.5-RC06
+wallets03prd|wallets-core|2.4.5-RC06
+wallets01prd|wallets-core|2.4.5-RC06
+cms01prd|webcms|2.78.1a
+
+cms02prd|webcms|2.78.1a
+
+desktopweb09prd|webfrontend|2.78.1a
+
+desktopweb14prd|webfrontend|2.78.1a
+
+asiaweb09prd|webfrontend|Can't find application version
+desktopweb20prd|webfrontend|2.78.1a
+
+asiaweb03prd|webfrontend|2.78.1a
+
+desktopweb11prd|webfrontend|2.78.1a
+
+desktopweb17prd|webfrontend|2.78.1a
+
+desktopweb05prd|webfrontend|2.78.1a
+
+desktopweb21prd|webfrontend|2.78.1a
+
+desktopweb24prd|webfrontend|2.78.1a
+
+desktopweb10prd|webfrontend|2.78.1a
+
+asiaweb02prd|webfrontend|2.78.1a
+
+desktopweb25prd.mp.vcint.com|webfrontend|2.77.1a
+
+asiaweb04prd|webfrontend|2.78.1a
+
+desktopweb22prd|webfrontend|2.78.1a
+
+asiaweb05prd|webfrontend|2.78.1a
+
+desktopweb04prd|webfrontend|2.78.1a
+
+desktopweb06prd|webfrontend|2.78.1a
+
+desktopweb01prd|webfrontend|2.78.1a
+
+asiaweb06prd|webfrontend|2.78.1a
+
+desktopweb26prd.mp.vcint.com|webfrontend|2.77.1a
+
+desktopweb03prd|webfrontend|2.78.1a
+
+desktopweb02prd|webfrontend|2.78.1a
+
+desktopweb19prd|webfrontend|2.78.1a
+
+asiaweb10prd|webfrontend|Can't find application version
+desktopweb23prd|webfrontend|2.78.1a
+
+asiaweb01prd|webfrontend|2.78.1a
+
+desktopweb00prd|webfrontend|2.78.1a
+
+desktopweb12prd|webfrontend|2.78.1a
+
+desktopweb18prd|webfrontend|2.78.1a
+
+desktopweb07prd|webfrontend|2.78.1a
+
+asiaweb07prd|webfrontend|Can't find application version
+desktopweb08prd|webfrontend|2.78.1a
+
+asiaweb08prd|webfrontend|Can't find application version
+desktopweb13prd|webfrontend|2.78.1a
+

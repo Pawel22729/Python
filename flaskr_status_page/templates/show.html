@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="../static/bootstrap.min.css">
+</head>
+
+<body>
+
+<h1>Application versions:</h1>
+
+{% if Versions != "" %}
+<b>{{ App }} | version link:</b> {{ Link }}<br>
+<br>
+
+	<h3>Production</h3>
+	{% for i in PRD | sort %}
+	    <p style="text-indent: 5em;">
+	    {{i}}: {{PRD[i]}}<br/>
+	    </p>
+	{% endfor %}
+
+	<h3>Uat</h3>
+	{% for i in UAT | sort %}
+	    <p style="text-indent: 5em;">
+	    {{i}}: {{UAT[i]}}
+	    </p>
+	{% endfor %}
+
+	<h3>Agt</h3>
+	{% for i in AGT | sort %}
+            <p style="text-indent: 5em;">
+	    {{i}}: {{AGT[i]}}
+            </p>
+	{% endfor %}
+
+	<h3>Other</h3>
+ 	{% for i in REST | sort %}
+            <p style="text-indent: 5em;">    
+	    {{i}}: {{REST[i]}}
+	    </p>
+	{% endfor %}
+    
+{% else %}
+    <p>Version not found | yaml not found</p>
+
+{% endif %}
+</body>
+
+</html>
+
+

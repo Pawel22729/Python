@@ -1,0 +1,12 @@
+{%for i in Data%}
+    {%for j in i%}
+	<b>{{j}}:</b><br>
+	    {%for k in i[j]%}
+		{%for m in k%}
+		<span style="margin-left: 2cm;">
+		    {{m}}<br>
+		</span>
+		{%endfor%}
+	    {%endfor%}
+    {%endfor%}
+{%endfor%}

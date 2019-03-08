@@ -1,0 +1,17 @@
+<html>
+<head>
+    <link rel="stylesheet" href="../static/bootstrap.min.css">
+</head>
+<body>
+
+<h1>Application versions:</h1>
+<ul>
+{% for app in App_list|sort %}
+    <li>
+        <a href="http://scm01all:5001/{{ check }}?application={{ app }}">{{ app }} </a>
+    </li>
+{% endfor %}
+</ul>
+</body>
+
+</html>

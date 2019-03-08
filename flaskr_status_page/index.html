@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="../static/bootstrap.min.css">
+  </head>
+  <body>
+  <table border='1px'>
+  {% for ver in Versions %}
+	<h1>{{ ver[0] }}</h1>
+	<hr>
+	<b>PRD</b><br>
+	{% for prd in ver[1] %}
+		{{ prd }} : {{ ver[1][prd] }}<br>
+	{% endfor %}<br>
+	<b>TST</b><br>
+	{% for tst in ver[2] %}
+		{{ tst }} : {{ ver[2][tst] }}<br>
+	{% endfor %}<br>
+	<b>DEV</b><br>
+	{% for dev in ver[3] %}
+		{{ dev }} : {{ ver[3][dev] }}<br>
+	{% endfor %}
+	<b>AGT</b><br>
+	{% for agt in ver[4] %}
+		{{ agt }} : {{ ver[4][agt] }}<br>
+	{% endfor %}
+	<b>OTHER</b><br>
+	{% for other in ver[5] %}
+		{{ other }} : {{ ver[5][other] }}<br>
+	{% endfor %}
+  {% endfor %}
+  </table>
+  </body>
+</html>
