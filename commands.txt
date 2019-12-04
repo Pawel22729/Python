@@ -1,0 +1,8 @@
+rabbitmqctl add_user pablo haslo
+rabbitmqctl set_user_tags pablo administrator
+rabbitmq-plugins enable rabbitmq_management
+
+python3rabbitmqadmin list queues vhost testq node messages message_stats.publish_details.rate
+python rabbitmqadmin -f long -d 3 list queues
+python rabbitmqadmin export rabbit.definitions.json
+python rabbitmqadmin import rabbit.definitions.json
