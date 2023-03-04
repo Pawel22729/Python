@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-def solution(N, S):
+def solution(N, S) -> int:
     row_full = ["A","B","C","D","E","F","G","H","J","K"]
     rows_all = []
 
@@ -32,9 +32,10 @@ def solution(N, S):
                     sit_pointer += 4
                 else:    
                     sit_pointer += 1
-    print(f'FOUR_SITERS: {four_siters}')
+    return four_siters
 
 N = 22
 S = "1A 3C 2B 20G 5A"
 
-solution(N, S)
+RESULT = solution(N, S)
+print(RESULT)
