@@ -23,15 +23,14 @@ def solution(N, S) -> int:
     four_siters = 0
     full_slice = ''.join(row_full)
     for row in rows_all:
-        if len(row) > 4:
-            sit_pointer = 0
-            while sit_pointer + 4 <= len(row):
-                search_slice = ''.join(row[sit_pointer:sit_pointer+4])
-                if search_slice in full_slice:
-                    four_siters += 1
-                    sit_pointer += 4
-                else:    
-                    sit_pointer += 1
+        sit_pointer = 0
+        while sit_pointer + 4 <= len(row):
+            search_slice = ''.join(row[sit_pointer:sit_pointer+4])
+            if search_slice in full_slice:
+                four_siters += 1
+                sit_pointer += 4
+            else:    
+                sit_pointer += 1
     return four_siters
 
 N = 22
