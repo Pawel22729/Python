@@ -40,3 +40,13 @@ class RomanNumerals:
                 result += self.number_map[roman_num[0]]
                 roman_num = roman_num[1:]
         return result
+
+
+if __name__ == "__main__":
+    converter = RomanNumerals()
+
+    RESULT_TO = converter.to_roman(1990)
+    RESULT_FROM = converter.from_roman('MCMXC')
+
+    print(f'To roman result: {RESULT_TO}')
+    print(f'From roman result: {RESULT_FROM}')
