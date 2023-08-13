@@ -1,3 +1,5 @@
 .pyc
 env
 *pycache*
+
+.DS_Store
